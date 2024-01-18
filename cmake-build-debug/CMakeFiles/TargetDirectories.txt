@@ -1,0 +1,3 @@
+C:/Users/dtyur/CLionProjects/MyStringClass/cmake-build-debug/CMakeFiles/MyStringClass.dir
+C:/Users/dtyur/CLionProjects/MyStringClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dtyur/CLionProjects/MyStringClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
